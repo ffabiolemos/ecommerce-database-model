@@ -27,22 +27,6 @@ O modelo foi estruturado respeitando:
 - Relacionamentos 1:N e 1:1  
 - Tabelas associativas para itens do pedido  
 
----
-
-## 🗂️ Estrutura do Projeto
-ecommerce-database-design-mysql/
-│
-├── database/
-│ ├── schema.sql # Criação das tabelas
-│ ├── inserts.sql # Dados fictícios
-│ └── queries.sql # Consultas SQL
-│
-├── docs/
-│ └── der.png # Diagrama Entidade-Relacionamento
-│
-├── .gitignore
-└── README.md
-
 
 ---
 
@@ -80,7 +64,6 @@ ecommerce-database-design-mysql/
 ## 🛠 Tecnologias Utilizadas
 
 - MySQL  
-- SQL  
 - VSCode  
 - Git & GitHub  
 
@@ -101,8 +84,9 @@ Utilizando: `JOIN`, `LEFT JOIN`, `GROUP BY`, `HAVING`, `ORDER BY`, `SUBQUERY`, f
 
 ---
 
-👤 Autor
-Fábio Lemos Estudante de Análise de Dados | Tecnologia | SQL
+## 👤 Autor
+Fábio Lemos - 
+Estudante de Análise de Dados | Tecnologia | SQL
 
 🔗 GitHub: https://github.com/ffabiolemos
 
